@@ -1,0 +1,12 @@
+Temat: Maska wprowadzania.
+1. Maska wprowadzania słuzy do określenia sposobu wprowadzania danych. Za jej pomocą ułatwiamy również prawidłowe zapisanie tych danych.
+
+2. Podczas określenia maski wprowadzania możemy korzystać z następujących symboli zastępczych:
+	a. 0 - akceptowane są wszystkie cyfry od 0 do 9 - pozycja wymagana to znaczy że musi być wprowadzana wartość
+	b. 9 - akceptowane są cyfry i spacje - pozycja opcjonalna
+	c. # - akceptowane są cyfry, spacje orazn znaki - i + pozycja pocjonalna
+	d. L - są to litery od a do Z, jest to pozycja wymagana
+	e. ? - litery od a do Z, pozycja opcjonalna
+	f. A - litery i cyfry pozycja wymagana
+	g. a - litery i cyfry pozycja opcjonalna
+	h. & - dowolny znak pozycja wymagana

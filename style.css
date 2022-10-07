@@ -1,0 +1,31 @@
+body
+{
+    background-color: black;
+    font-size: 25px;
+    color: wheat;
+}
+
+a
+{
+    color: orange;
+    text-decoration: none;
+    transition: all 500ms;
+}
+
+a:visited
+{
+    color: orange;
+    transition: all 500ms;
+}
+
+a:hover
+{
+    transform: scale(0.98, 1);
+    transition: all 500ms;
+    color: orangered;
+}
+
+li a
+{
+    display: block
+}

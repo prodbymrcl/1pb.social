@@ -1,0 +1,11 @@
+Temat: Formatowanie tekstu i not.
+
+	1. Formatowanie, podobnie jak maska wprowadzania, wpływa na wygląd pola, jednak nie narzuca sposobu wprowadzania danych tylko wyświetla je według określonego wzoru. 
+	Dzięki temu użytkownik może w dowolny sposób wprowadzać dane, a i tak zostaną one wyświetlone zgodnie z przypisanym formatem.
+
+	2. Znaki umożliwiające tworzenie niestandardowych formatów tekstu i not.
+		a. > zamienia wszystkie litery na duże
+		b. < zamienia wszystkie litery na małe
+		c. @ wyświetla w podanym miejscu kolejny znak lub spację z tekstu wpisanego w pole
+		d. & wyświetla w podanym miejscu kolejny znak z tekstu wpisanego w polu
+		e. + i spacja wyświetla wskazany znak wewnątrz formatowanego tekstu

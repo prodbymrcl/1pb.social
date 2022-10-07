@@ -1,0 +1,23 @@
+﻿1. Podaj a
+2. Podaj b
+3. Podaj c
+4. Suma = a+b+c
+5. Jeżeli (Suma<0) -> p.6 -> Jeżeli nie -> p.7
+6. Wyświetl a^2 -> p.13
+7. Jeżeli (100>Suma>=0) -> p.8 -> Jeżeli nie -> p.9
+8. Wyświetl √c -> p.13
+9. Jeżeli (100=<Suma<1000) -> p.10 -> Jeżeli nie -> p.11
+10. Wyświetl a/c -> p.13
+11. Jeżeli (Suma>=1000) -> p.12
+12. "Duża liczba"
+13. Zakończ
+
+
+
+
+1. Podaj wzrost
+2. Jeżeli (wzrost=<120) -> "niski" -> p.6 -> Jeżeli nie -> p.3
+3. Jeżeli (120<wzrost=<160) -> "średni" -> p.6 -> Jeżeli nie -> p.4
+4. Jeżeli (160<wzrost=<190) -> "wysoki" -> p.6 -> Jeżeli nie -> p.5
+5. Jeżeli (wzrost>190) -> "gigant"
+6. Zakończ

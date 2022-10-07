@@ -1,0 +1,42 @@
+1. Podaj a
+2. Podaj b
+3. suma = a + b
+4. Wyœwietl suma
+5. Zakoñcz
+
+
+1. Podaj a
+2. Podaj b
+3. Je¿eli (b=0) -> p. 4 -> je¿eli nie -> p. 5
+4. "Nie dziel przez 0" -> p. 2
+5. Iloraz = a / b
+6. Wyœwietl iloraz
+7. Zakoñcz
+
+Zadanie 1. Utwórz algorytm obliczaj¹cy wartoœæ funkcji liniowej f(x):ax+b=0 w którym a i b
+s¹ wprowadzone przez u¿ytkownika.
+
+1. Podaj a
+2. Je¿eli (a=0) -> p.3 -> je¿eli nie -> p.4
+3. "Podaj liczbê inn¹ ni¿ 0" -> p. 1
+4. Podaj b
+5. x = -b/a
+6. Iloczyn = a*x
+7. Suma = Iloczyn + b
+8. Wyœwietl Suma
+9. Zakoñcz
+
+Zadanie 2. Utwórz algorytm w którym u¿ytkownik podaje swój wiek, a nastêpnie na ekranie pojawia siê 
+informacja, czy jest pe³noletni czy niepe³noletni. Uwzglêdnij ¿e podany wiek nie mo¿e byæ mniejszy od 1
+i wiêkszy ni¿ 150.
+
+1. Podaj wiek
+2. Je¿eli (wiek<1) lub (wiek>150) -> p.3 -> je¿eli nie -> p.4
+3. "Podaj wiek w zakresie od 1 do 150." -> p.1
+4. Je¿eli (wiek>17) -> p.5 -> je¿eli nie -> p.6
+5. "Jesteœ pe³noletni!" -> p.7
+6. "Jesteœ niepe³noletni!" -> p.7
+7. Zakoñcz
+
+
+
